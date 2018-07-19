@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Souq Task</string>
+    <string name="title" translatable="false">%1$s</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="code">Code</string>
+    <string name="count">Country</string>
+    <string name="city">City</string>
+    <string name="register">REGISTER</string>
+    <string name="by">By clicing \u0020</string>
+    <string name="reg">register \u0020</string>
+    <string name="agree">you agree to \u0020</string>
+    <string name="term">Terms and Conditions</string>
+    <string name="fullname">Full Name</string>
+    <string name="codeplace">12345</string>
+    <string name="change">Change language</string>
+    <string name="terms_cond">
+        \n - This app displays different goods provided at the best prices
+        \n - The user must have been 18 years or older
+        \n - The information provided in the program is not used in any other program or site
+        \n - Not disclose any information to any user
+        \n - This program is a way to connect the seller to the buyer and the program has no guarantee about it
+        \n - Report any problems of any kind related to  app or  users
+    </string>
+    <string name="terms_title">Terms and Conditions</string>
+
+</resources>

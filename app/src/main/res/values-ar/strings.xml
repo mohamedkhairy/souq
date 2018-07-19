@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">كلمة المرور</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="code">الرمز</string>
+    <string name="count">الدولة</string>
+    <string name="city">المدينة</string>
+    <string name="register">التسجيل</string>
+    <string name="by">بالضغط على \u0020</string>
+    <string name="reg">تسجيل \u0020</string>
+    <string name="agree">انت موافق على \u0020</string>
+    <string name="term">الشروط و الاحكام</string>
+    <string name="fullname">الاسم كامل</string>
+    <string name="codeplace">12345</string>
+    <string name="change">تغيير اللغة</string>
+    <string name="terms_cond">
+        \n -هذا البرنامج يعرض سلع مختلفه موفره بافضل الاسعار
+        \n -على المستخدم ان يكون تم ١٨ عام او اكثر
+        \n -المعلومات المقدمه فى البرنامج لا تستخدم فى اى برنامع او موقع اخر
+        \n -عدم الكشف عن اى معلومات لاى مستخدم
+        \n -هذا البرنامج هو طريق يوصل البائع بالمشترى و ليس للبرنامج اى ضمان حول ذلك
+        \n -الابلاغ عن اى مشاكل من اى نوع تمس للبرنامع اوالمستخدمين
+    </string>
+    <string name="terms_title">الشروط و الاحكام</string>
+
+</resources>
